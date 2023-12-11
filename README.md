@@ -1,1 +1,1 @@
-[View the presentation](final_presentation.pdf)
+final_presentation.pdf
